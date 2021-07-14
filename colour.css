@@ -1,1 +1,7 @@
-<h1 style="color:white;">A White Heading</h1>
+body {
+    color: blue;
+  }
+  
+  h1 {
+    color: green;
+  }
