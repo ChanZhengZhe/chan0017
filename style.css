@@ -28,16 +28,16 @@ ul {
   }
 /*heading for the first one*/
   h1{
-   /* color:blue;*/
+   color:rgb(8, 8, 10);*/
    text-align:center;
  }
 
  h2,h3,h4,h5,h6{
-	color:blue;
+	color:rgb(250, 91, 91);
 	text-align:center;
 }
 
 
-body { color:  blue;
-  background-color:  rgb(0, 162, 255); 
+body { color:  rgb(1, 1, 17);
+  background-color:  rgb(246, 249, 250); 
 }
